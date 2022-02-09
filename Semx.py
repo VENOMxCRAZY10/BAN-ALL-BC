@@ -41,7 +41,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"**I'm Active🔥\nStart Fucking Any Group** \n\n **__ᏢᎾᏁᎶ🏓__ !!** `{ms}` ms")
+        await event.edit(f"**I'm Active🔥\nStart Fucking Any Group  VENOM OP ** \n\n **__ᏢᎾᏁᎶ🏓__ !!** `{ms}` ms")
 
 """
  RESTART COMMANDS 
@@ -93,5 +93,5 @@ async def testing(event):
   LEAVE COMMAND 
 """
 print("Leave Command Soon Currently Am Busy") 
-print("STARTED SUCCESSFULLY... JOIN @RaichuOfficial") 
+print("STARTED SUCCESSFULLY... JOIN @V3NOM_SUPPURT") 
 Blaze.run_until_disconnected()
