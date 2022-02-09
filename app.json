@@ -27,7 +27,7 @@
    ],
     "env": {
         "TOKEN": {
-            "description": "Your bot token",
+            "description": "GRP KI MA XHODNE WALA BOT TOKEN",
             "value": "",
             "required": true
         },
