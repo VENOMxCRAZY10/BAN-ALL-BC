@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/3cdb65b6d72babdb39941.jpg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://telegra.ph/file/02b41714ae7f0fa5a1e91.jpg" alt="ICON" width="250" height="250"/></p>
 
 
 <h4 align="center">
